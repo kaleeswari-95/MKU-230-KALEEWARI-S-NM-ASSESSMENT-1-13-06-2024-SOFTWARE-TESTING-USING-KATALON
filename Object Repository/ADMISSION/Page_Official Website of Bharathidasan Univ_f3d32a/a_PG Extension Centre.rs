@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PG Extension Centre</name>
+   <tag></tag>
+   <elementGuidId>f248eb6a-f743-43c7-b476-2c43104b98fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(5) > ul > li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='mainav']/ul/li[5]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;PG Extension Centre&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e0b4bd73-b57d-4a98-a244-6899fec4b6a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>//www.bdu.ac.in/admissions/pg-exten-centre.php</value>
+      <webElementGuid>375d76b7-01cb-4458-953f-acd48539bf45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PG Extension Centre</value>
+      <webElementGuid>f9b45244-6a47-45e9-a967-070e6b3cff9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainav&quot;)/ul[@class=&quot;clear&quot;]/li[5]/ul[1]/li[2]/a[1]</value>
+      <webElementGuid>14c2e8d7-b5a2-4af4-bb24-741828bef0fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='mainav']/ul/li[5]/ul/li[2]/a</value>
+      <webElementGuid>561a8977-e7b6-4c10-b1d9-cb23956660c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'PG Extension Centre')])[2]</value>
+      <webElementGuid>e478958c-ab64-459e-88d2-cbdb4a17e31d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Univ. Departments / Centres'])[1]/following::a[1]</value>
+      <webElementGuid>0d0b68d5-9e81-4177-8d12-c3dc42a4122a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seniority List of Univ. Faculty'])[1]/following::a[3]</value>
+      <webElementGuid>f958558d-1e70-4fa8-81a4-3858fbbce142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distance &amp; Online Education'])[2]/preceding::a[1]</value>
+      <webElementGuid>051646db-1bdd-4a83-86de-a7a0e2c2e8a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M.Phil.'])[1]/preceding::a[2]</value>
+      <webElementGuid>dfaf22d3-839d-49a0-b3e3-b67d1d600eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '//www.bdu.ac.in/admissions/pg-exten-centre.php')]</value>
+      <webElementGuid>1f5ee3ed-4e1d-4671-9708-f280fa687750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[2]/a</value>
+      <webElementGuid>8ed34bc1-754e-48fe-8070-8a9189ce80bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '//www.bdu.ac.in/admissions/pg-exten-centre.php' and (text() = 'PG Extension Centre' or . = 'PG Extension Centre')]</value>
+      <webElementGuid>f5b549ab-f287-448c-b164-fb526c5e456c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

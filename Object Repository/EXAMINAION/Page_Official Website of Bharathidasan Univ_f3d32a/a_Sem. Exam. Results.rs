@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sem. Exam. Results</name>
+   <tag></tag>
+   <elementGuidId>35fb9a4d-4876-4381-a8e3-0e2a6d4097ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(9) > ul > li:nth-of-type(4) > ul > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='mainav']/ul/li[9]/ul/li[4]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Sem. Exam. Results&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f53d23aa-5c74-429e-89dd-46846566fad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>//www.bdu.ac.in/examinations/results/</value>
+      <webElementGuid>c24050cd-f379-463b-9231-ca7abbbe1230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>5f7e610b-2960-4cbe-b2d0-55d451387352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sem. Exam. Results</value>
+      <webElementGuid>896cbae3-649b-4f2b-b55d-d708ea223e56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainav&quot;)/ul[@class=&quot;clear&quot;]/li[9]/ul[1]/li[4]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>7802fed4-03fd-47b0-b3b1-96698f25657a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='mainav']/ul/li[9]/ul/li[4]/ul/li/a</value>
+      <webElementGuid>6d953f9c-c4f2-487e-a74a-e5b72b9e640c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sem. Exam. Results')]</value>
+      <webElementGuid>6e626246-b038-4b6b-a824-c5832aaa0c77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subject Codes'])[1]/following::a[2]</value>
+      <webElementGuid>68a69801-45ef-4e3b-a1d6-4bf856a8a1f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Timetable'])[1]/following::a[3]</value>
+      <webElementGuid>401a3d8b-bc33-4ff5-9c47-b2abcd8d66c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exam. Applications'])[1]/preceding::a[1]</value>
+      <webElementGuid>d04d9748-0a93-440d-b7eb-096bdd1cbd49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pre Examination Portal (New)'])[1]/preceding::a[3]</value>
+      <webElementGuid>b8d486d1-b987-401b-8386-4d09c9528917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sem. Exam. Results']/parent::*</value>
+      <webElementGuid>e34aa5ba-491d-48d3-886b-485693ae8007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '//www.bdu.ac.in/examinations/results/')]</value>
+      <webElementGuid>76287133-e70e-47c5-b2f5-a2757b08b2e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/ul/li[4]/ul/li/a</value>
+      <webElementGuid>2e0a6ed1-bd9a-4423-8c4c-a997e75ecbb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '//www.bdu.ac.in/examinations/results/' and (text() = 'Sem. Exam. Results' or . = 'Sem. Exam. Results')]</value>
+      <webElementGuid>0be8f70b-65dd-498b-9554-0827f699e325</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
